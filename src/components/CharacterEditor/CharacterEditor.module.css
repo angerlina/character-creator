@@ -8,6 +8,7 @@
 
 .header {
   padding-bottom: 64px;
+  width: 65%;
 }
 
 .title {
@@ -24,7 +25,17 @@
 }
 
 .characterWrapper {
+  width: 50%;
 }
 
 .controlColumn {
 }
+
+.perspective {
+  background: hsl(195deg, 20%, 86%);
+  height: 40%;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
